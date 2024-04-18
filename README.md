@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This repository hosts the implementation of classification trees, bagging, and random forests as part of the "Data Mining" course at Utrecht University. The goal of this project is to develop functions from scratch to grow a classification tree and predict class labels for given attributes.
+This repository hosts the implementation of classification trees, bagging, and random forests as part of the "Data Mining" course at Utrecht University. The goal of this project is to develop functions from scratch to grow a classification tree and predict class labels for given attributes. (see `assignment1.pdf` for more description)
 
 ## Features
 
@@ -11,7 +11,7 @@ This repository hosts the implementation of classification trees, bagging, and r
 
 ## How to Run
 
-Make sure you have Python installed on your system and then run:
+Make sure you have [Python](https://www.python.org/downloads/) installed on your system and then run:
 ```bash
 python main.py
 
@@ -19,13 +19,17 @@ python main.py
 
 The code is organized into functions as follows:
 
-    - tree_grow: Function to grow a classification tree.
-    - tree_pred: Function to predict class labels using the tree.
-    - tree_grow_b: Function for bagging implementation.
-    - tree_pred_b: Function to predict labels using bagged trees.
+- tree_grow: Function to grow a classification tree.
+- tree_pred: Function to predict class labels using the tree.
+- tree_grow_b: Function for bagging implementation.
+- tree_pred_b: Function to predict labels using bagged trees.
 
 
 ## Contact
 
-- Email: [masoud.aghayan64@gmail.com](mailto: masoud.aghayan64@gmail.com)
-- Linkedin: [Masoud Aghayan](https://www.linkedin.com/in/masoud-aghayan-131586171/)
+- Email: [masoud.aghayan64@gmail.com](mailto: masoud.aghayan64@gmail.com).
+- Linkedin: [Masoud Aghayan](https://www.linkedin.com/in/masoud-aghayan-131586171/).
+
+## Acknowledgments
+
+Special thanks to the "Data Mining" course instructors and colleagues at Utrecht University for their guidance and valuable input throughout this project.

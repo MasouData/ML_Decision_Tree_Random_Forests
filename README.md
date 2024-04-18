@@ -28,7 +28,7 @@ The code is organized into functions as follows:
 
 ## Contact
 
-- Email: [masoud.aghayan64@gmail.com](mailto: masoud.aghayan64@gmail.com).
+- Email: [masoud.aghayan64@gmail.com](mailto:masoud.aghayan64@gmail.com).
 - Linkedin: [Masoud Aghayan](https://www.linkedin.com/in/masoud-aghayan-131586171/).
 
 ## Acknowledgments

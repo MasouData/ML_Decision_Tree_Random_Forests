@@ -14,6 +14,7 @@ This repository hosts the implementation of classification trees, bagging, and r
 Make sure you have [Python](https://www.python.org/downloads/) installed on your system and then run:
 ```bash
 python main.py
+```
 
 ## Project Structure
 
